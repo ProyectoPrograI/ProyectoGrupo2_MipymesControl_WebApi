@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{2350509A-C960-4B0C-BCB8-04979381122B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CreditosController.cs">
+    <Files>
+      <File FileName="Controllers/CreditosController.cs" Line="22" Column="1" />
+      <File FileName="Controllers/MovimientosController.cs" />
+      <File FileName="Controllers/RegistrarseController.cs" />
+      <File FileName="Controllers/RegistrosController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Grupo_2_Web_API" expanded="True">
+            <Node name="Grupo_2_Web_API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="APIModels" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CreditosController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Grupo__2__Web__API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
